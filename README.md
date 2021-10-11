@@ -1,1 +1,1 @@
-# High_Order_Interpolation
+Lengendre Polynomials and L2 approximation
